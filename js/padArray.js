@@ -1,4 +1,3 @@
-// REMEMBER TO PSEUDOCODE
 const pad = (array, minSize, value=null) => {
 // function pad(array, minSize, value = null) {
     // establish new array from arguments being passed to function
